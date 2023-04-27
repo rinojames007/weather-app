@@ -5,7 +5,8 @@ A weather application used to display weather of any location.
   JavaScript ES6<br>
   CSS3<br>
   React.js<br>
-  Tailwind.css<br>
+  
+  API : OpenWeather
 ## Get started
 clone this repository
 ```bash
