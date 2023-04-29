@@ -1,5 +1,6 @@
 # WEATHER APP
 A weather application used to display weather of any location.
+see it live [here](https://rj007weather.netlify.app)
 
 ## Tech Stack
   JavaScript ES6<br>
